@@ -1,6 +1,6 @@
 # recommender-systems
 
-Recommender Systems implementation of User-Based Collaborative Filtering using Dataset Goodreads
+Recommender Systems implementation of Item-Based Collaborative Filtering using Dataset Goodreads
 
 # How to run
 1. Clone/Download the codes and datasets
