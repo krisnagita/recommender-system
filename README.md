@@ -1,6 +1,6 @@
 # recommender-systems
 
-Recommender Systems implementation of Item-Based Collaborative Filtering using Dataset Goodreads from Kaggle
+Simple Recommender Systems implementation of Item-Based Collaborative Filtering using Dataset Goodreads from Kaggle
 
 # How to run
 1. Clone/Download the codes and datasets
